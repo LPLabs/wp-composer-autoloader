@@ -1,0 +1,16 @@
+{
+  "name": "lplabs/wp-composer-autoloader",
+  "description": "Include the Composer autoloader",
+  "license": "proprietary",
+  "type": "wordpress-muplugin",
+  "keywords": [ "Lonely Planet", "WordPress", "Composer", "autoload", "autoloader" ],
+  "authors": [
+    {
+      "name": "Eric King",
+      "email": "eric.king@lonelyplanet.com"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
