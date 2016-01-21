@@ -10,6 +10,9 @@
       "email": "eric.king@lonelyplanet.com"
     }
   ],
+  "extra": {
+    "wordpress-muplugin-entry": "_composer-autoloader.php"
+  },
   "require": {
     "composer/installers": "^1.0"
   }
